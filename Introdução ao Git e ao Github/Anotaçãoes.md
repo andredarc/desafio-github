@@ -1,4 +1,4 @@
-# :file_folder:**Comandos Git** :pushpin: :boom: :running::dash: :rocket: :green_book:
+# **Comandos Git** :mortar_board: :computer: :pushpin: :recycle: :boom: :running::dash: :rocket: :green_book: :coffee:
 
 ![Alt ou título da imagem](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 ### *Segue abaixo alguns comandos de git com os comentário de cada um, criei alguns script em algumas linguagens tranzendo os comandos específicos por :video_game: diversão :roller_coaster: e treinamento:rocket:*
